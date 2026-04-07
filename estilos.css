@@ -1,0 +1,36 @@
+div{
+    border-style: solid;
+    padding: 20px; 
+}
+#principal{
+
+
+}
+
+
+#centro{
+
+
+}
+#foto{
+    width: 30%;
+    display: inline-block;
+
+
+}
+#nombre{
+    width: 50%;
+        display: inline-block;
+
+
+
+
+}
+#info{
+    width: 20%;
+        display: inline-block;
+
+
+
+
+}
